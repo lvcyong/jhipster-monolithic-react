@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterMonolithicReact",
+    "packageName": "com.lvcyong.application",
+    "packageFolder": "com/lvcyong/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "ZjhjYzFhMjEwYzU0YWRhYjQ3ZGQ3YWJkODZkY2QxOGI0MDAxYjc5MDU4NDM5OTUwODYzZDM4MDI2MmQ5NTE4OGRlZjU2YTJmNWIyYzkyMmYzZGFlODBlMzFlYzQwYzgzMDM1NzFkZjU1ZDU3OTZjYzYwN2NlNDc3ZTVhZDk3NWI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "lvcyong",
+  "repository-name": "jhipster-monolithic-react"
+}
